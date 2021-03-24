@@ -1,0 +1,1 @@
+print('master文件')
